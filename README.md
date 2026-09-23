@@ -1,5 +1,9 @@
 # Punto Alivio — App beta
 
+## 👉 [Abrir la app: oscarillo12.github.io/punto-alivio](https://oscarillo12.github.io/punto-alivio/)
+
+> Ábrela en el celular para la mejor experiencia. Funciona sin señal después de la primera visita.
+
 Prototipo navegable de la red Punto Alivio (taller de Design Thinking).
 React + Vite + Tailwind, sin backend: los datos son JSON locales en `src/data/`.
 
