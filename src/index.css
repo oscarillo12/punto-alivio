@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-alivio: #f5d547;
+  --color-alivio-oscuro: #e3c236;
+  --color-alivio-claro: #fdf5cf;
+  --color-carbon: #333333;
+  --color-fondo: #f4f4f1;
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+html {
+  /* Base más grande que lo normal: el usuario tiene 58 años y a veces lee de pie. */
+  font-size: 18px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: #dcdcd8;
+  color: var(--color-carbon);
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+:focus-visible {
+  outline: 3px solid #333;
+  outline-offset: 3px;
+}

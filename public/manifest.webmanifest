@@ -1,0 +1,13 @@
+{
+  "name": "Punto Alivio",
+  "short_name": "Punto Alivio",
+  "description": "Recuperación corporal para camioneros en la Ruta 5",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

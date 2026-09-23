@@ -1,0 +1,70 @@
+[
+  {
+    "id": "cuello-cabina",
+    "titulo": "Cuello y hombros en la cabina",
+    "minutos": 3,
+    "lugar": "Sentado en la cabina, con el motor apagado",
+    "zonas": ["cuello", "hombros"],
+    "pasos": [
+      { "titulo": "Encoge los hombros", "segundos": 30, "texto": "Sube los hombros hacia las orejas, aguanta 3 segundos y suéltalos. Repite 8 veces." },
+      { "titulo": "Inclina el cuello", "segundos": 40, "texto": "Lleva la oreja derecha hacia el hombro derecho, sin subir el hombro. Aguanta 15 segundos y cambia de lado." },
+      { "titulo": "Mentón hacia atrás", "segundos": 30, "texto": "Mirando al frente, lleva el mentón hacia atrás, como haciendo papada. Aguanta 5 segundos. Repite 6 veces." },
+      { "titulo": "Círculos de hombros", "segundos": 30, "texto": "Haz círculos lentos con los hombros hacia atrás. Diez vueltas." },
+      { "titulo": "Respira tranquilo", "segundos": 30, "texto": "Apoya la espalda en el asiento. Toma aire por la nariz en 4 tiempos y bótalo por la boca en 6." }
+    ]
+  },
+  {
+    "id": "lumbar-pie",
+    "titulo": "Espalda baja, de pie junto al camión",
+    "minutos": 5,
+    "lugar": "De pie, afirmado en el camión",
+    "zonas": ["lumbar", "caderas"],
+    "pasos": [
+      { "titulo": "Arquéate hacia atrás", "segundos": 40, "texto": "Pon las manos en la cintura y lleva el cuerpo suavemente hacia atrás. Aguanta 3 segundos. Repite 8 veces." },
+      { "titulo": "Rodilla al pecho", "segundos": 60, "texto": "Afírmate del camión con una mano. Sube una rodilla hacia el pecho y abrázala con la otra mano. 20 segundos por lado." },
+      { "titulo": "Inclínate de lado", "segundos": 40, "texto": "Brazo derecho arriba, inclina el cuerpo hacia la izquierda. Aguanta 15 segundos y cambia." },
+      { "titulo": "Gato de pie", "segundos": 40, "texto": "Manos sobre las rodillas, un poco agachado. Redondea la espalda como gato y después endereza. Repite 8 veces." },
+      { "titulo": "Camina alrededor del camión", "segundos": 90, "texto": "Da una vuelta caminando alrededor del camión, a paso normal, moviendo los brazos." }
+    ]
+  },
+  {
+    "id": "piernas-circulacion",
+    "titulo": "Piernas y circulación",
+    "minutos": 4,
+    "lugar": "De pie, junto a la rueda o la puerta",
+    "zonas": ["rodillas", "caderas"],
+    "pasos": [
+      { "titulo": "Ponte en puntillas", "segundos": 40, "texto": "Afirmado en la puerta, sube a la punta de los pies y baja lento. Repite 15 veces." },
+      { "titulo": "Estira la pantorrilla", "segundos": 60, "texto": "Apoya las manos en la rueda. Pierna derecha atrás, talón en el suelo. Aguanta 20 segundos y cambia." },
+      { "titulo": "Media sentadilla", "segundos": 50, "texto": "Afirmado en la manilla, baja como para sentarte, solo hasta la mitad, y sube. Repite 10 veces." },
+      { "titulo": "Sacude las piernas", "segundos": 30, "texto": "Suelta y sacude cada pierna por unos segundos. Después camina unos pasos." }
+    ]
+  },
+  {
+    "id": "antes-manejar",
+    "titulo": "Antes de volver a manejar",
+    "minutos": 3,
+    "lugar": "De pie, antes de subir a la cabina",
+    "zonas": ["espalda_alta", "hombros"],
+    "pasos": [
+      { "titulo": "Abre el pecho", "segundos": 40, "texto": "Junta las manos detrás de la espalda y lleva los hombros hacia atrás. Aguanta 20 segundos, dos veces." },
+      { "titulo": "Gira el tronco", "segundos": 40, "texto": "Brazos cruzados sobre el pecho, gira el cuerpo hacia un lado y hacia el otro, sin mover los pies. 10 veces." },
+      { "titulo": "Estírate hacia arriba", "segundos": 30, "texto": "Entrelaza los dedos y estira los brazos hacia el cielo. Aguanta 15 segundos, dos veces." },
+      { "titulo": "Suelta las muñecas", "segundos": 30, "texto": "Haz círculos con las muñecas y abre y cierra las manos. Así llegan sueltas al volante." }
+    ]
+  },
+  {
+    "id": "descanso-largo",
+    "titulo": "Para soltar la espalda en el descanso largo",
+    "minutos": 6,
+    "lugar": "Acostado en la litera",
+    "zonas": ["lumbar", "caderas", "espalda_alta"],
+    "pasos": [
+      { "titulo": "Rodillas al pecho", "segundos": 60, "texto": "Acostado de espalda, abraza las dos rodillas y llévalas al pecho. Aguanta 20 segundos y suelta. Tres veces." },
+      { "titulo": "Giro acostado", "segundos": 80, "texto": "Rodillas dobladas, déjalas caer juntas hacia un lado mientras miras al otro. 20 segundos por lado, dos veces." },
+      { "titulo": "Puente", "segundos": 60, "texto": "Pies apoyados, sube la cadera despacio, aguanta 3 segundos y baja. Repite 10 veces." },
+      { "titulo": "Estira una pierna", "segundos": 60, "texto": "Con una rodilla doblada, estira la otra pierna hacia arriba y tómala por detrás del muslo. 20 segundos por lado." },
+      { "titulo": "Respira y descansa", "segundos": 60, "texto": "Brazos a los lados, ojos cerrados. Respira lento, soltando la espalda contra el colchón." }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  { "id": "h1", "fecha": "2026-04-08", "sesion": "Punto Alivio Temuco", "zonas": { "cuello": 6, "hombros": 5, "espalda_alta": 4, "lumbar": 8, "caderas": 3, "rodillas": 4 } },
+  { "id": "h2", "fecha": "2026-04-29", "sesion": "Punto Alivio Chillán", "zonas": { "cuello": 6, "hombros": 5, "espalda_alta": 4, "lumbar": 8, "caderas": 3, "rodillas": 3 } },
+  { "id": "h3", "fecha": "2026-05-20", "sesion": "Punto Alivio Los Ángeles", "zonas": { "cuello": 5, "hombros": 4, "espalda_alta": 3, "lumbar": 7, "caderas": 3, "rodillas": 3 } },
+  { "id": "h4", "fecha": "2026-06-17", "sesion": "Punto Alivio Temuco", "zonas": { "cuello": 4, "hombros": 4, "espalda_alta": 3, "lumbar": 6, "caderas": 2, "rodillas": 3 } },
+  { "id": "h5", "fecha": "2026-07-15", "sesion": null, "zonas": { "cuello": 5, "hombros": 3, "espalda_alta": 3, "lumbar": 6, "caderas": 2, "rodillas": 4 } },
+  { "id": "h6", "fecha": "2026-08-12", "sesion": "Punto Alivio Osorno", "zonas": { "cuello": 3, "hombros": 3, "espalda_alta": 2, "lumbar": 5, "caderas": 2, "rodillas": 3 } },
+  { "id": "h7", "fecha": "2026-09-16", "sesion": "Punto Alivio Chillán", "zonas": { "cuello": 3, "hombros": 2, "espalda_alta": 2, "lumbar": 4, "caderas": 1, "rodillas": 3 } }
+]

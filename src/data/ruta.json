@@ -1,0 +1,33 @@
+{
+  "conductor": "Segundo",
+  "empresa": "Transportes del Sur",
+  "financiamiento": "Lo cubre Transportes del Sur, por convenio con tu mutual",
+  "origen": "Santiago",
+  "destino": "Puerto Montt",
+  "destinoKm": 1020,
+  "velocidad": 80,
+  "inicio": { "km": 312, "hora": "11:20" },
+  "paradas": [
+    { "id": "par-chillan", "tipo": "pesaje", "km": 400, "hora": "12:30", "duracion": 45, "lugar": "Plaza de pesaje Chillán" },
+    { "id": "par-losangeles", "tipo": "descanso", "km": 510, "hora": "14:35", "duracion": 120, "lugar": "Servicentro Los Ángeles Norte" },
+    { "id": "par-temuco", "tipo": "descarga", "km": 675, "hora": "18:40", "duracion": 90, "lugar": "Centro de distribución Temuco" },
+    { "id": "par-osorno", "tipo": "descanso", "km": 910, "hora": "23:10", "duracion": 45, "lugar": "Servicentro Osorno Sur" }
+  ],
+  "ciudades": [
+    { "nombre": "Santiago", "km": 0 },
+    { "nombre": "Rancagua", "km": 87 },
+    { "nombre": "San Fernando", "km": 140 },
+    { "nombre": "Curicó", "km": 190 },
+    { "nombre": "Talca", "km": 255 },
+    { "nombre": "Linares", "km": 305 },
+    { "nombre": "Parral", "km": 345 },
+    { "nombre": "Chillán", "km": 400 },
+    { "nombre": "Los Ángeles", "km": 510 },
+    { "nombre": "Victoria", "km": 590 },
+    { "nombre": "Temuco", "km": 675 },
+    { "nombre": "Loncoche", "km": 760 },
+    { "nombre": "Los Lagos", "km": 830 },
+    { "nombre": "Osorno", "km": 910 },
+    { "nombre": "Puerto Montt", "km": 1020 }
+  ]
+}
